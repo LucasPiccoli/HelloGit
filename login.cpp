@@ -2,6 +2,6 @@
 
 int main(){
 
-    std::cout<<"LOGUEADOR STASHEADO"<<std:: endl;
+    std::cout<<"LOGUEADOR STASHEADO  Y MERGEO"<<std:: endl;
     return 0;
 }
